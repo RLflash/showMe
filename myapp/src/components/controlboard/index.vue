@@ -19,7 +19,9 @@
 	  							<img src="@/assets/man.png" alt="" />
 	  						</div>
 							<el-dropdown-menu slot="dropdown">
-							    <el-dropdown-item>文章管理</el-dropdown-item>
+							    <router-link to="/controlboard/persoanl/articlemanage">
+							    	<el-dropdown-item>个人中心</el-dropdown-item>
+							    </router-link>
 							    <el-dropdown-item>退出</el-dropdown-item>
 							</el-dropdown-menu>
 						</el-dropdown>

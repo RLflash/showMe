@@ -19,4 +19,5 @@ export default {
   color: #2c3e50;
 }
 *{padding:0px;margin:0px;}
+a{text-decoration: none;}
 </style>
