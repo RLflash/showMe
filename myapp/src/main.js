@@ -8,6 +8,11 @@ import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 Vue.use(ElementUI);
 
+import '../static/ue/ueditor.config.js'
+import '../static/ue/ueditor.all.min.js'
+import '../static/ue/lang/zh-cn/zh-cn.js'　　　
+import '../static/ue/ueditor.parse.min.js'
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */

@@ -1,6 +1,7 @@
 <template>
 	<div class="homewrap">
 		<div class="homew">
+			首页
 		  	<waterfall :line-gap="200" :auto-resize="true" :watch="items">
 			    <waterfall-slot v-for="(item, index) in items" :width="300" :height="300" :order="index" :key="item.id">
     				<img :src="item" alt="" />

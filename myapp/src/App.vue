@@ -19,5 +19,13 @@ export default {
   color: #2c3e50;
 }
 *{padding:0px;margin:0px;}
+i{font-style: normal;}
 a{text-decoration: none;}
+.clearfloat:after{
+  content: ""; 
+  display: block; 
+  height: 0; 
+  clear: both; 
+  visibility: hidden;  
+  }
 </style>
