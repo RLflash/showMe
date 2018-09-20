@@ -34,7 +34,9 @@
 	.contw{width:calc(100% - 230px);text-align: left;margin-left:30px;}
 	.artlist{margin-top:20px;height:120px;position:relative}
 	.contw>h3{font-size:20px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
-	.artpart{margin-top: 5px; overflow: hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;}
+	.artpart{margin-top: 5px; overflow: hidden;text-overflow: ellipsis;/*! autoprefixer: off */
+-webkit-box-orient: vertical;
+/* autoprefixer: on */;display: -webkit-box;-webkit-line-clamp: 3;}
 	.contw>p{font-size:15px;}
 	.contattr{position: absolute;bottom: 0;color:#999}
 	.autor{margin-left:39px}
