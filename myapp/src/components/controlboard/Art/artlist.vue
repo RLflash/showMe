@@ -5,7 +5,7 @@
 			<el-row>
 			  	<el-col :span="14" :offset="5">
 			  		<div class="grid-content bg-purple-dark">
-			  			<div class="artlist clearfloat" v-for="img in imgurl">
+			  			<div class="artlist clearfloat" v-for="img in imgurl" @click=godetail>
 							<div class="imgw" :style="{background:'url('+img+') center /200px 120px no-repeat'}"></div>
 							<div class="contw">
 								<h3>安识科技是一支技术过硬和实战经验丰富的团队，实时跟踪国内外最新安全动向，专注于应用安全，主机安全，应急响应，风险评估，企业安全建设等多个领域。</h3>
@@ -32,7 +32,7 @@
 	.imgw{width:200px;height:120px;}
 	
 	.contw{width:calc(100% - 230px);text-align: left;margin-left:30px;}
-	.artlist{margin-top:20px;height:120px;position:relative}
+	.artlist{margin-top:20px;height:120px;position:relative;cursor: pointer;}
 	.contw>h3{font-size:20px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
 	.artpart{margin-top: 5px; overflow: hidden;text-overflow: ellipsis;/*! autoprefixer: off */
 -webkit-box-orient: vertical;
@@ -50,6 +50,11 @@
 					'http://www.dreamer90.com/img/2.jpg',
 					'http://www.dreamer90.com/img/3.jpg',
 				]
+			}
+		},
+		methods:{
+			godetail(){
+				this.$router.push('artdetail')
 			}
 		}
 	}

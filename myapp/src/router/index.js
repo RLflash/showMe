@@ -14,6 +14,7 @@ export default new Router({
         children:[
           	{ path: 'home', component: resolve => require(['@/components/controlboard/Home/index.vue'], resolve) },
         	{ path: 'artlist', component: resolve => require(['@/components/controlboard/Art/artlist.vue'], resolve) },
+        	{ path: 'artdetail', component: resolve => require(['@/components/controlboard/Art/artdetail.vue'], resolve) },
         	{ path: 'persoanl', component: resolve => require(['@/components/controlboard/Personal/index.vue'], resolve),
         		children:[
         			{ path: 'articlemanage', component: resolve => require(['@/components/controlboard/Personal/articlemanage.vue'], resolve) },
