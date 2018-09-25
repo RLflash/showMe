@@ -22,8 +22,14 @@ import '../static/ue/ueditor.all.min.js'
 import '../static/ue/lang/zh-cn/zh-cn.js'　　　
 import '../static/ue/ueditor.parse.min.js'
 
-
-
+Vue.filter("contpure", function(value) { 
+	if(value){
+		var value=value.replace(/<\/?.+?>/gi,"");
+	 	var value=value.replace(/ /g,"");
+	 	return value  
+	}
+	
+}); 
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
@@ -33,3 +39,5 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
+
+ 

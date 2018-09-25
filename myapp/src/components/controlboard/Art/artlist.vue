@@ -5,7 +5,7 @@
 			<el-row>
 			  	<el-col :span="14" :offset="5">
 			  		<div class="grid-content bg-purple-dark">
-			  			<div class="artlist clearfloat" v-for="img in imgurl" @click=godetail>
+			  			<!--<div class="artlist clearfloat" v-for="img in imgurl" @click=godetail>
 							<div class="imgw" :style="{background:'url('+img+') center /200px 120px no-repeat'}"></div>
 							<div class="contw">
 								<h3>安识科技是一支技术过硬和实战经验丰富的团队，实时跟踪国内外最新安全动向，专注于应用安全，主机安全，应急响应，风险评估，企业安全建设等多个领域。</h3>
@@ -19,8 +19,16 @@
 								<p class="contattr"><i class="pushtime">2018-08-19</i><i class="autor">发布者 : 天南第一剑修</i></p>
 							</div>
 							
+						</div>-->
+						<div class="artlist clearfloat" v-for="artcont in artdatas" @click=godetail(artcont.id)>
+							<div class="imgw" :style="{background:'url('+dd(artcont.content)+') center /200px 120px no-repeat'}"></div>
+							<div class="contw">
+								<h3>{{artcont.title}}</h3>
+								<p class="artpart">{{artcont.content|contpure}}</p>
+								<p class="contattr"><i class="pushtime">{{artcont.sendtime}}</i><i class="autor">发布者 : {{artcont.autor}}</i></p>
+							</div>
+							
 						</div>
-						
 			  		</div>
 			  	</el-col>
 			</el-row>
@@ -49,12 +57,29 @@
 					'http://www.dreamer90.com/img/1.jpg',
 					'http://www.dreamer90.com/img/2.jpg',
 					'http://www.dreamer90.com/img/3.jpg',
-				]
+				],
+				artdatas:null,
 			}
 		},
+		mounted(){
+			var self = this
+			self.$http.get('http://192.168.0.103/showMe/myappadmin/Home/personalart/getartcont')
+				.then(function(data) {
+					self.artdatas=data.data
+				})
+		},
 		methods:{
-			godetail(){
-				this.$router.push('artdetail')
+			dd(ddc){
+				var regex = /<img.*?src="(.*?)"/;
+				if(regex.exec(ddc)){
+					var src = regex.exec(ddc)[1];
+					console.log(src)
+				}
+				
+				return src
+			},
+			godetail(id){
+				this.$router.push('artdetail/'+id)
 			}
 		}
 	}

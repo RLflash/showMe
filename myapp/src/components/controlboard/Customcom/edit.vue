@@ -1,8 +1,6 @@
 <template>
 	 <div class="edit">
-    	
-	    <div id="editor" style="width:1000px;height:120px;"></div>
-	    {{value}}
+	    <div id="editor" style="width:100%;height:120px;"></div>
 	  </div>
 </template>
 
