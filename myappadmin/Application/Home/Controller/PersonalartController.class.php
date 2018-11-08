@@ -1,7 +1,8 @@
 <?php
 namespace Home\Controller;
 use Think\Controller;
-class PersonalartController extends Controller {
+class PersonalartController extends BaseController {
+	//个人中心发布文章
     public function saveart(){
         $arttit=$_POST["arttit"];
         $artcont=$_POST["cont"];
@@ -15,12 +16,5 @@ class PersonalartController extends Controller {
 		$data['sendtime'] = $artsendt;
 		$User->add($data);
     }
-    public function getartcont(){
-    	header("Access-Control-Allow-Origin: *");
-       	$User = M("Posts"); // 实例化User对象	
-		$artdata=$User->select();
-		
-		
-		$this->ajaxReturn($artdata, 'JSON');
-    }
+    
 }

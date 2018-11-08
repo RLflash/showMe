@@ -9,9 +9,9 @@ import 'element-ui/lib/theme-chalk/index.css';
 Vue.use(ElementUI);
 
 import axios from 'axios'
-
 Vue.prototype.$http = axios
 
+import {API_ROOT} from './config'
 
 import qs from 'qs';
 Vue.prototype.$qs = qs;
@@ -30,6 +30,14 @@ Vue.filter("contpure", function(value) {
 	}
 	
 }); 
+
+axios.interceptors.request.use(config=>{
+	config.url=API_ROOT+config.url
+	return config
+},error=>{
+	
+})
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */

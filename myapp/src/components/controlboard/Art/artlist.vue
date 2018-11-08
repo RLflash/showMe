@@ -1,37 +1,40 @@
 <template>
 	<div class="artlistwrap">
 		<div class="artlistw">
-			
 			<el-row>
 			  	<el-col :span="14" :offset="5">
 			  		<div class="grid-content bg-purple-dark">
-			  			<!--<div class="artlist clearfloat" v-for="img in imgurl" @click=godetail>
-							<div class="imgw" :style="{background:'url('+img+') center /200px 120px no-repeat'}"></div>
+						<div class="artlist clearfloat" v-for="artcont in artdatas" @click="showdetail(artcont)">
+							<div class="imgw" :style="{background:'url(http://7x2wdd.com2.z0.glb.qiniucdn.com/bbc3cd7de572147921d7880fa2436789?imageMogr2/thumbnail/740) center /200px 120px no-repeat'}"></div>
+							<!--<div class="imgw" :style="{background:'url('+dd(artcont.content)+') center /200px 120px no-repeat'}"></div>-->
 							<div class="contw">
-								<h3>安识科技是一支技术过硬和实战经验丰富的团队，实时跟踪国内外最新安全动向，专注于应用安全，主机安全，应急响应，风险评估，企业安全建设等多个领域。</h3>
-								<p class="artpart">作者：小黑猪（朱文哲） 嵌入式/TP-Link/WR886_V7 在之前一篇文章中对TP-Link wr886nv7 
-									固件进行初步分析后，下一步则是尝试寻找主板上的串口调试接口从而
-									作者：小黑猪（朱文哲） 嵌入式/TP-Link/WR886_V7 在之前一篇文章中对TP-Link wr886nv7 
-									固件进行初步分析后，下一步则是尝试寻找主板上的串口调试接口从而
-									作者：小黑猪（朱文哲） 嵌入式/TP-Link/WR886_V7 在之前一篇文章中对TP-Link wr886nv7 
-									固件进行初步分析后，下一步则是尝试寻找主板上的串口调试接口从而
-								</p>
-								<p class="contattr"><i class="pushtime">2018-08-19</i><i class="autor">发布者 : 天南第一剑修</i></p>
-							</div>
-							
-						</div>-->
-						<div class="artlist clearfloat" v-for="artcont in artdatas" @click=godetail(artcont.id)>
-							<div class="imgw" :style="{background:'url('+dd(artcont.content)+') center /200px 120px no-repeat'}"></div>
-							<div class="contw">
-								<h3>{{artcont.title}}</h3>
+								<h3 class="textoverhide">{{artcont.title}}</h3>
 								<p class="artpart">{{artcont.content|contpure}}</p>
 								<p class="contattr"><i class="pushtime">{{artcont.sendtime}}</i><i class="autor">发布者 : {{artcont.autor}}</i></p>
 							</div>
-							
 						</div>
 			  		</div>
 			  	</el-col>
 			</el-row>
+			<transition name="leftright">
+				<el-row class="popwrap whiteopacity" v-show="showpop" @click.native.self="poptoggle">
+	  			<el-col class="artdetailwrap  overauto" >
+	  				<div class="grid-content bg-purple-dark">
+	  					<div class="artshowtitw">
+	  						<h3 class="textoverhide">{{artdetail.title}}</h3>
+	  						<p class="artshowinfo">
+	  							<span>{{artdetail.autor}}</span>
+	  							<span>{{artdetail.sendtime}}</span>
+	  						</p>
+	  					</div>
+	  					<div class="line"></div>
+						<div v-html="artdetail.content">
+							
+						</div>
+			  		</div>
+	  			</el-col>
+			</el-row>
+			</transition>
 		</div>
 	</div>
 </template>
@@ -40,30 +43,38 @@
 	.imgw{width:200px;height:120px;}
 	
 	.contw{width:calc(100% - 230px);text-align: left;margin-left:30px;}
-	.artlist{margin-top:20px;height:120px;position:relative;cursor: pointer;}
-	.contw>h3{font-size:20px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+	.artlist{margin-top:33px;height:120px;position:relative;cursor: pointer;}
+	.contw>h3{font-size:20px;}
 	.artpart{margin-top: 5px; overflow: hidden;text-overflow: ellipsis;/*! autoprefixer: off */
--webkit-box-orient: vertical;
-/* autoprefixer: on */;display: -webkit-box;-webkit-line-clamp: 3;}
+	-webkit-box-orient: vertical;
+	/* autoprefixer: on */;display: -webkit-box;-webkit-line-clamp: 3;}
 	.contw>p{font-size:15px;}
 	.contattr{position: absolute;bottom: 0;color:#999}
 	.autor{margin-left:39px}
+	.artdetailwrap{background:#fff;min-height: 100vh;box-shadow: 0 1px 1px 1px #d0d0d0;width:900px;margin:auto;position: absolute;left:0;right:0;padding:0px 30px;}
+	.artshowinfo>span{color:#999;font-size:14px;margin-left:20px;}
+	.artshowinfo>span:first-child{margin-left:0}
+	.artshowtitw{text-align: center;}
+	.artshowtitw>h3{margin: 20px 0;font-size: 23px;}
+	/**/
+	.popwrap{width:100vw;height:100vh;top:0;position:fixed;}
+	.whiteopacity{background:rgba(255, 255, 255, 0.6);filter:Alpha(opacity=60);}
+	.textoverhide{overflow:hidden;text-overflow:ellipsis;white-space:nowrap; }
+	.line{margin:20px 0;width:100%;height:1px;background:#dee5e7;}
+	.overauto{overflow:auto}
 </style>
 <script>
 	export default{
 		data(){
 			return {
-				imgurl:[
-					'http://www.dreamer90.com/img/1.jpg',
-					'http://www.dreamer90.com/img/2.jpg',
-					'http://www.dreamer90.com/img/3.jpg',
-				],
 				artdatas:null,
+				artdetail:{},
+				showpop:false
 			}
 		},
 		mounted(){
 			var self = this
-			self.$http.get('http://192.168.0.103/showMe/myappadmin/Home/personalart/getartcont')
+			self.$http.get('/Index/getartcont')
 				.then(function(data) {
 					self.artdatas=data.data
 				})
@@ -78,8 +89,14 @@
 				
 				return src
 			},
-			godetail(id){
-				this.$router.push('artdetail/'+id)
+			showdetail(cont){
+				let self=this;
+				self.artdetail=cont;
+				self.showpop=true
+			},
+			poptoggle(){
+				let self=this;
+				self.showpop=false
 			}
 		}
 	}
