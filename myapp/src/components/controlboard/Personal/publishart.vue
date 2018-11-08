@@ -41,7 +41,7 @@
 		methods: {
 			save() {
 				var self = this
-				this.$http.post('http://192.168.0.103/showMe/myappadmin/Home/personalart/saveart', self.$qs.stringify({
+				this.$http.post('http://192.168.0.101/showMe/myappadmin/Home/personalart/saveart', self.$qs.stringify({
 						'arttit':self.arttit,
 						'cont': self.cont,
 						
