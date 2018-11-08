@@ -10,6 +10,7 @@
 							  			首页
 							  		</el-menu-item>
 							  	</router-link>
+							  	
 							  	<router-link to="/controlboard/artlist">
 							  		<el-menu-item index="2">
 							  			技术文档
@@ -64,12 +65,14 @@
 
 <script>
   export default {
+  	
     data() {
       return {
       	 activeIndex: '1',
         isCollapse: true
       };
     },
+ 
     methods: {
       handleOpen(key, keyPath) {
         console.log(key, keyPath);

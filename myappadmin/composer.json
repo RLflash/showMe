@@ -12,7 +12,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "lcobucci/jwt": "3.3.x-dev"
     },
     "minimum-stability": "dev"
 }
