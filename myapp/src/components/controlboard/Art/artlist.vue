@@ -17,8 +17,8 @@
 			  	</el-col>
 			</el-row>
 			<transition name="leftright">
-				<el-row class="popwrap whiteopacity" v-show="showpop" @click.native.self="poptoggle">
-	  			<el-col class="artdetailwrap  overauto" >
+				<el-row class="popwrap whiteopacity overauto" v-show="showpop" @click.native.self="poptoggle">
+	  			<el-col class="artdetailwrap" >
 	  				<div class="grid-content bg-purple-dark">
 	  					<div class="artshowtitw">
 	  						<h3 class="textoverhide">{{artdetail.title}}</h3>
@@ -62,6 +62,8 @@
 	.textoverhide{overflow:hidden;text-overflow:ellipsis;white-space:nowrap; }
 	.line{margin:20px 0;width:100%;height:1px;background:#dee5e7;}
 	.overauto{overflow:auto}
+	.overhide{overflow:hidden}
+	
 </style>
 <script>
 	export default{
@@ -77,7 +79,24 @@
 			self.$http.get('/Index/getartcont')
 				.then(function(data) {
 					self.artdatas=data.data
-				})
+			})
+   			
+		},
+		computed: {
+			isbodyscroll() {		
+				return this.$store.state.custom.isscroll;
+			}
+		},
+		watch: {
+			isbodyscroll: function(a, b) {	
+				if(b==true){
+					document.querySelector("body").setAttribute("style","overflow: auto")
+					document.querySelector("body").setAttribute("style","overflow: auto")
+				}else{
+					document.querySelector("body").setAttribute("style","overflow: hidden")
+				}
+				
+			}
 		},
 		methods:{
 			dd(ddc){
@@ -89,14 +108,17 @@
 				
 				return src
 			},
+			//
 			showdetail(cont){
 				let self=this;
 				self.artdetail=cont;
-				self.showpop=true
+				self.showpop=true;
+				self.$store.commit('isscrollevent')
 			},
 			poptoggle(){
 				let self=this;
-				self.showpop=false
+				self.showpop=false;
+				self.$store.commit('isscrollevent')
 			}
 		}
 	}

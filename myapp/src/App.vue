@@ -38,11 +38,11 @@ a{text-decoration: none;}
 	}
 	@keyframes leftright-in {
 	  0% {
-	    transform: translateX(-100%);
-	    -webkit-transform: translateX(-100%);
-	    -ms-transform: translateX(-100%);
-	    -o-transform: translateX(-100%);
-	    -moz-transform: translateX(-100%);
+	    transform: translateX(100%);
+	    -webkit-transform: translateX(100%);
+	    -ms-transform: translateX(100%);
+	    -o-transform: translateX(100%);
+	    -moz-transform: translateX(100%);
 	  } 
 	  100% {
 	    transform: translateX(0);
@@ -54,11 +54,11 @@ a{text-decoration: none;}
 	}
 	@-webkit-keyframes leftright-in {
 	  0% {
-	    transform: translateX(-100%);
-	    -webkit-transform: translateX(-100%);
-	    -ms-transform: translateX(-100%);
-	    -o-transform: translateX(-100%);
-	    -moz-transform: translateX(-100%);
+	    transform: translateX(100%);
+	    -webkit-transform: translateX(100%);
+	    -ms-transform: translateX(100%);
+	    -o-transform: translateX(100%);
+	    -moz-transform: translateX(100%);
 	  } 
 	  100% {
 	    transform: translateX(0);
@@ -70,11 +70,11 @@ a{text-decoration: none;}
 	}
 	@-ms-keyframes leftright-in {
 	  0% {
-	    transform: translateX(-100%);
-	    -webkit-transform: translateX(-100%);
-	    -ms-transform: translateX(-100%);
-	    -o-transform: translateX(-100%);
-	    -moz-transform: translateX(-100%);
+	    transform: translateX(100%);
+	    -webkit-transform: translateX(100%);
+	    -ms-transform: translateX(100%);
+	    -o-transform: translateX(100%);
+	    -moz-transform: translateX(100%);
 	  } 
 	  100% {
 	    transform: translateX(0);
@@ -86,11 +86,11 @@ a{text-decoration: none;}
 	}
 	@-o-keyframes leftright-in {
 	  0% {
-	    transform: translateX(-100%);
-	    -webkit-transform: translateX(-100%);
-	    -ms-transform: translateX(-100%);
-	    -o-transform: translateX(-100%);
-	    -moz-transform: translateX(-100%);
+	    transform: translateX(100%);
+	    -webkit-transform: translateX(100%);
+	    -ms-transform: translateX(100%);
+	    -o-transform: translateX(100%);
+	    -moz-transform: translateX(100%);
 	  } 
 	  100% {
 	    transform: translateX(0);
@@ -102,11 +102,11 @@ a{text-decoration: none;}
 	}
 	@-moz-keyframes leftright-in {
 	  0% {
-	    transform: translateX(-100%);
-	    -webkit-transform: translateX(-100%);
-	    -ms-transform: translateX(-100%);
-	    -o-transform: translateX(-100%);
-	    -moz-transform: translateX(-100%);
+	    transform: translateX(100%);
+	    -webkit-transform: translateX(100%);
+	    -ms-transform: translateX(100%);
+	    -o-transform: translateX(100%);
+	    -moz-transform: translateX(100%);
 	  } 
 	  100% {
 	    transform: translateX(0);

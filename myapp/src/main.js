@@ -24,8 +24,9 @@ import '../static/ue/ueditor.parse.min.js'
 
 Vue.filter("contpure", function(value) { 
 	if(value){
-		var value=value.replace(/<\/?.+?>/gi,"");
-	 	var value=value.replace(/ /g,"");
+		value=value.replace(/<\/?.+?>/gi,"");
+	 	value=value.replace(/ /gi,"");
+	 	value=value.replace(/&nbsp;/gi, "");
 	 	return value  
 	}
 	
@@ -38,11 +39,14 @@ axios.interceptors.request.use(config=>{
 	
 })
 
+import store from './vuex/store'
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
+  store,
   router,
   components: { App },
   template: '<App/>'
