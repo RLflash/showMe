@@ -15,6 +15,7 @@ class PersonalartController extends BaseController {
 		$data['autor'] = $artautor;
 		$data['sendtime'] = $artsendt;
 		$User->add($data);
+		
     }
     
 }

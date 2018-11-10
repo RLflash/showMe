@@ -39,6 +39,9 @@
 							    <router-link to="/controlboard/persoanl/publishart">
 							    	<el-dropdown-item>个人中心</el-dropdown-item>
 							    </router-link>
+							    <router-link to="/login">
+							    	<el-dropdown-item>登陆</el-dropdown-item>
+							    </router-link>
 							    <el-dropdown-item>退出</el-dropdown-item>
 							</el-dropdown-menu>
 						</el-dropdown>

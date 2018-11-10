@@ -41,7 +41,10 @@
     },
     methods: {
       submitForm(formName) {
-        
+        	var self = this
+			self.$http.get('/Index/getartcont').then(function(formName) {
+					self.artdatas=data.data
+			})
       },
      
     }
@@ -54,7 +57,9 @@
 	    margin: auto;
 	    left: 0;
 	    right: 0;
+	   	margin-top:10%;
 	}
+	
 	.sexw{width:33%}
 	.el-form-item__label{padding:0 26px 0 0}
 </style>
