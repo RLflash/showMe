@@ -7,6 +7,7 @@ use \Lcobucci\JWT\Signer\Hmac\Sha256;
 include "./vendor/autoload.php";
 class BaseController extends Controller {
 	public function __construct(){	
+		header("Content-Type:text/html; charset=utf-8");
 	 	header("Access-Control-Allow-Origin: *");
 	}
 	public function setjwtStr(){
@@ -18,7 +19,7 @@ class BaseController extends Controller {
 		        ->setAudience("suspn.com") //接收者
 		        ->setId("abc", true) //对当前token设置的标识
 		        ->setIssuedAt(time()) //token创建时间
-		        ->setExpiration(time() + 1) //过期时间
+		        ->setExpiration(time() + 10) //过期时间
 		        ->setNotBefore(time()) //当前时间在这个时间前，token不能使用
 		        ->set('jtiuid', 300612); //自定义数据
 		

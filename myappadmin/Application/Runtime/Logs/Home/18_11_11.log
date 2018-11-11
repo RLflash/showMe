@@ -1,0 +1,319 @@
+[ 2018-11-11T09:53:25+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+
+[ 2018-11-11T09:57:12+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+
+[ 2018-11-11T09:57:17+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+
+[ 2018-11-11T09:57:21+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+
+[ 2018-11-11T09:57:26+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+
+[ 2018-11-11T09:57:28+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+
+[ 2018-11-11T09:57:33+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+
+[ 2018-11-11T09:57:40+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+
+[ 2018-11-11T09:57:42+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+
+[ 2018-11-11T09:57:53+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001733s ]
+
+[ 2018-11-11T09:57:58+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+
+[ 2018-11-11T09:58:03+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+
+[ 2018-11-11T09:58:20+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+
+[ 2018-11-11T09:58:21+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+
+[ 2018-11-11T09:58:26+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxODY3ODkzLCJleHAiOjE1NDE4Njc5MDMsIm5iZiI6MTU0MTg2Nzg5MywianRpdWlkIjozMDA2MX0.UzDLApExhrd1i5CUemxkk1m0pyBzFLE2zRB3EeLXXsI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+
+[ 2018-11-11T09:59:34+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+
+[ 2018-11-11T09:59:58+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNTc0LCJleHAiOjE1NDE5MDE1ODQsIm5iZiI6MTU0MTkwMTU3NCwianRpdWlkIjozMDA2MTJ9.1BymrSK9lfsqM3-x65qr50Uez0ZC7ubraKCy8J9o0uA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+
+[ 2018-11-11T10:00:01+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNTc0LCJleHAiOjE1NDE5MDE1ODQsIm5iZiI6MTU0MTkwMTU3NCwianRpdWlkIjozMDA2MTJ9.1BymrSK9lfsqM3-x65qr50Uez0ZC7ubraKCy8J9o0uA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+
+[ 2018-11-11T10:00:05+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+
+[ 2018-11-11T10:00:09+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+
+[ 2018-11-11T10:00:10+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+
+[ 2018-11-11T10:00:21+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001893s ]
+
+[ 2018-11-11T21:59:48+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001575s ]
+
+[ 2018-11-11T22:00:25+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001148s ]
+NOTIC: [8] Array to string conversion D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\IndexController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001960s ]
+
+[ 2018-11-11T22:00:41+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001799s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001203s ]
+
+[ 2018-11-11T22:04:58+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+NOTIC: [8] Use of undefined constant deco - assumed 'deco' D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\IndexController.class.php 第 12 行.
+
+[ 2018-11-11T22:05:30+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+
+[ 2018-11-11T22:05:46+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+
+[ 2018-11-11T22:08:14+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001405s ]
+
+[ 2018-11-11T22:08:21+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2018-11-11T22:08:42+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001164s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001210s ]
+
+[ 2018-11-11T22:10:30+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001235s ]
+
+[ 2018-11-11T22:10:34+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001131s ]
+
+[ 2018-11-11T22:10:45+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTAxNjA5LCJleHAiOjE1NDE5MDE2MTksIm5iZiI6MTU0MTkwMTYwOSwianRpdWlkIjozMDA2MTJ9.q32OVbYqiV07usGpc2Zjj5rHzzfXB-Atk_FE31N6oXY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002833s ]
+
+[ 2018-11-11T22:10:53+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002457s ]
+
+[ 2018-11-11T22:10:55+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTQ1NDUzLCJleHAiOjE1NDE5NDU0NjMsIm5iZiI6MTU0MTk0NTQ1MywianRpdWlkIjozMDA2MTJ9.T9fyB_AnIeShQClP5d9G9Q7CPfsJ3bhOagIf7PqG4Ho
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001587s ]
+
+[ 2018-11-11T22:11:08+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQxOTQ1NDUzLCJleHAiOjE1NDE5NDU0NjMsIm5iZiI6MTU0MTk0NTQ1MywianRpdWlkIjozMDA2MTJ9.T9fyB_AnIeShQClP5d9G9Q7CPfsJ3bhOagIf7PqG4Ho
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001136s ]
+

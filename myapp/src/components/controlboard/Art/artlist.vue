@@ -76,7 +76,8 @@
 		},
 		mounted(){
 			var self = this
-			self.$http.get('/Index/getartcont')
+			var a=window.localStorage.getItem("c");
+			self.$http.get('/Index/getartcont?id='+a)
 				.then(function(data) {
 					self.artdatas=data.data
 			})

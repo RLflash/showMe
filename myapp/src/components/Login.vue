@@ -42,8 +42,9 @@
     methods: {
       submitForm(formName) {
         	var self = this
-			self.$http.get('/Index/getartcont').then(function(formName) {
-					self.artdatas=data.data
+			self.$http.get('/Sign/login').then(function(data) {
+				window.localStorage.setItem("c",data.data);
+					
 			})
       },
      
