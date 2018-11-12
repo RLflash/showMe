@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 2018-11-07 14:11:03
+-- Generation Time: 2018-11-12 10:55:01
 -- 服务器版本： 10.1.19-MariaDB
 -- PHP Version: 5.6.28
 
@@ -36,13 +36,24 @@ CREATE TABLE `posts` (
   `user_id` int(11) DEFAULT NULL COMMENT '关联发帖人'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+-- --------------------------------------------------------
+
 --
--- 转存表中的数据 `posts`
+-- 表的结构 `users`
 --
 
-INSERT INTO `posts` (`id`, `title`, `content`, `autor`, `sendtime`, `top`, `user_id`) VALUES
-(168, '1', '<h1>fasefesf</h1>', '天南第一剑', '2018-11-07 21:06:16', 0, NULL),
-(169, '1', '<p>我在江南等你，不见不散</p>', '天南第一剑', '2018-11-07 21:06:44', 0, NULL);
+CREATE TABLE `users` (
+  `id` int(11) NOT NULL,
+  `names` varchar(10) DEFAULT NULL COMMENT '用户名',
+  `passwords` varchar(32) NOT NULL COMMENT '用户密码'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- 转存表中的数据 `users`
+--
+
+INSERT INTO `users` (`id`, `names`, `passwords`) VALUES
+(2, '1', '1');
 
 --
 -- Indexes for dumped tables
@@ -55,6 +66,12 @@ ALTER TABLE `posts`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `users`
+--
+ALTER TABLE `users`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- 在导出的表使用AUTO_INCREMENT
 --
 
@@ -62,7 +79,12 @@ ALTER TABLE `posts`
 -- 使用表AUTO_INCREMENT `posts`
 --
 ALTER TABLE `posts`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=170;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=184;
+--
+-- 使用表AUTO_INCREMENT `users`
+--
+ALTER TABLE `users`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

@@ -42,9 +42,10 @@
     methods: {
       submitForm(formName) {
         	var self = this
-			self.$http.get('/Sign/login').then(function(data) {
-				window.localStorage.setItem("c",data.data);
-					
+			self.$http.post('/Sign/login',self.$qs.stringify(self.ruleForm2)).then(function({data:data}) {
+				if(data.status==1){
+					window.localStorage.setItem("c",datas.status.tokenstr);
+				}
 			})
       },
      
