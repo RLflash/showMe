@@ -8,21 +8,22 @@ class SignController extends BaseController {
     	$name=$_POST["name"];
     	$pass=$_POST["pass"];
     	$datauser=array('names'=>$name,'passwords'=>$pass);
-
     	$User = M("users"); // 实例化User对象	
      	$getuser=$User->where($datauser)->find();
      	$returndata=array();
-		if($getuser){
+		if($getuser){		
 			//登录成功
-			$jw=$this->setjwtStr();
+			$jw=$this->setjwtStr($getuser[id]);
 			$returndata['status']=1;
 			$returndata['tokenstr']=$jw;
 			$this->ajaxReturn($returndata, 'JSON');
 		}else{
-			$returndata['status']=0;
-			$this->ajaxReturn($returndata, 'JSON');
+			header('HTTP/1.1 401 Unauthorized'); 	
 		}
     }
-   
+   //退出
+   public function signout(){
+   	
+   }
 
 }

@@ -38,7 +38,15 @@ axios.interceptors.request.use(config=>{
 },error=>{
 	
 })
-
+axios.interceptors.response.use(response=>{
+	return response;
+},error=>{
+	if(error.response.status==401){
+	  router.push({
+          path: '/login'
+      })
+	}
+})
 import store from './vuex/store'
 
 Vue.config.productionTip = false
