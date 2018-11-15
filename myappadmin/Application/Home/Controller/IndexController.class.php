@@ -5,7 +5,8 @@ use Think\Controller;
 class IndexController extends BaseController {
 	//获取所有文章
     public function getartcont(){
-    	$c=$_GET["id"];
+    	
+    	$c=$_GET["token"];
     	$this->getjwtStatus($c);
         $User = M("Posts"); // 实例化User对象	
 		$artdata=$User->select();

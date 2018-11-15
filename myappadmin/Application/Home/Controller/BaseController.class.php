@@ -13,7 +13,6 @@ class BaseController extends Controller {
 	
 	public function setjwtStr($idstr){
 		$randomstr=$idstr.time().rand();
-		dump($randomstr);
 		$builder = new Builder();
 		$signer  = new Sha256();
 		$secret = "suspn@)!*";
@@ -30,41 +29,54 @@ class BaseController extends Controller {
 		$builder->sign($signer, $secret);
 		//获取加密后的token，转为字符串
 		$token = (string)$builder->getToken();
-		 $parse = (new Parser())->parse($token);
-		  var_dump($parse->getClaims());
+			
+		session($randomstr,13);
+		
 		return $token;
 	} 	
 	public function getjwtStatus($tokenStr){
-		
 		$signer  = new Sha256();
 		$secret = "suspn@)!*";
 		//获取token
 		$token = $tokenStr;
 		
-		if (empty($token)) {
-//		    return "登陆失败！";	
-			header('HTTP/1.1 401 Unauthorized'); 	
- 			exit();	  
-		}	
-		
+		if(empty($token)){
+			header('HTTP/1.1 401 Unauthorized1'); 	
+	 		exit();	
+		}   
 		try {
 		    //解析token
 		    $parse = (new Parser())->parse($token);
 		    //验证token合法性
 		    if (!$parse->verify($signer, $secret)) {		       
 //		        return "权限不够！";
-				header('HTTP/1.1 401 Unauthorized'); 	
+				header('HTTP/1.1 401 1'); 	
  				exit();
 		    }
 		    //验证是否已经过期
 		    if ($parse->isExpired()) {
 //		         return "登陆已过期！！";
- 				 header('HTTP/1.1 401 Unauthorized'); 	
+ 				 header('HTTP/1.1 401 2'); 	
  				 exit();		  
-		    }	    
+		    }	
+		  	   
+			//退出登录			
+			 $userkey=$parse->getClaim('userflag');
+
+			if(empty($_SESSION[$userkey])){
+
+				header('HTTP/1.1 401 Unauthorized1'); 	
+	 			exit();	
+			}    
 		} catch (Exception $e) {
 		    var_dump($e->getMessage());
 		    
 		}
 	}	
+	public function distroylogin($token){
+		$parse = (new Parser())->parse($token);
+		$userkey=$parse->getClaim('userflag');
+		
+		unset($_SESSION[$userkey]);
+	}
 }

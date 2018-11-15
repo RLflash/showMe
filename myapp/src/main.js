@@ -32,8 +32,11 @@ Vue.filter("contpure", function(value) {
 	
 }); 
 
+
 axios.interceptors.request.use(config=>{
+	let tokenstr=window.localStorage.getItem("c");
 	config.url=API_ROOT+config.url
+	config.params={"token":tokenstr}
 	return config
 },error=>{
 	

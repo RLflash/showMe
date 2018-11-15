@@ -42,7 +42,7 @@
 							    <router-link to="/login">
 							    	<el-dropdown-item>登陆</el-dropdown-item>
 							    </router-link>
-							    <el-dropdown-item>退出</el-dropdown-item>
+							    <el-dropdown-item @click.native="signout">退出</el-dropdown-item>
 							</el-dropdown-menu>
 						</el-dropdown>
 					</div>
@@ -82,6 +82,12 @@
       },
       handleClose(key, keyPath) {
         console.log(key, keyPath);
+      },
+      signout(){
+      	let self =this;
+      	self.$http.get('/Sign/signout').then(function(data) {
+					
+		})
       }
     }
   }

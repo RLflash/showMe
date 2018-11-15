@@ -13,7 +13,11 @@ class SignController extends BaseController {
      	$returndata=array();
 		if($getuser){		
 			//登录成功
+			
+			session_start();
+			
 			$jw=$this->setjwtStr($getuser[id]);
+			
 			$returndata['status']=1;
 			$returndata['tokenstr']=$jw;
 			$this->ajaxReturn($returndata, 'JSON');
@@ -23,7 +27,9 @@ class SignController extends BaseController {
     }
    //退出
    public function signout(){
-   	
+   		$tokenstr=$_GET["token"];
+   		
+ 		$this->distroylogin($tokenstr);
    }
 
 }
