@@ -44,7 +44,10 @@
         	var self = this
 			self.$http.post('/Sign/login',self.$qs.stringify(self.ruleForm2)).then(function({data:data}) {
 				if(data.status==1){
-					window.localStorage.setItem("c",datas.status.tokenstr);
+					window.localStorage.setItem("c",data.tokenstr);
+					self.$router.push({
+          				path: '/controlboard/artlist'
+      				})
 				}
 			})
       },

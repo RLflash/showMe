@@ -5,7 +5,8 @@
 			  	<el-col :span="14" :offset="5">
 			  		<div class="grid-content bg-purple-dark">
 						<div class="artlist clearfloat" v-for="artcont in artdatas" @click="showdetail(artcont)">
-							<div class="imgw" :style="{background:'url(http://7x2wdd.com2.z0.glb.qiniucdn.com/bbc3cd7de572147921d7880fa2436789?imageMogr2/thumbnail/740) center /200px 120px no-repeat'}"></div>
+							
+							<div class="imgw" :style="{background:'url('+firstimg(artcont.content)+') center /200px 120px no-repeat'}"></div>
 							<!--<div class="imgw" :style="{background:'url('+dd(artcont.content)+') center /200px 120px no-repeat'}"></div>-->
 							<div class="contw">
 								<h3 class="textoverhide">{{artcont.title}}</h3>
@@ -76,9 +77,10 @@
 		},
 		mounted(){
 			var self = this
-			var a=window.localStorage.getItem("c");
-			self.$http.get('/Index/getartcont?id='+a)
+		
+			self.$http.get('/Index/getartcont')
 				.then(function(data) {
+					console.log(data)
 					self.artdatas=data.data
 			})
    			
@@ -100,13 +102,14 @@
 			}
 		},
 		methods:{
-			dd(ddc){
+			firstimg(value){
 				var regex = /<img.*?src="(.*?)"/;
-				if(regex.exec(ddc)){
-					var src = regex.exec(ddc)[1];
-					console.log(src)
+				let src
+				if(regex.exec(value)){
+					src = regex.exec(value)[1];
+				}else{
+					src='http://7x2wdd.com2.z0.glb.qiniucdn.com/bbc3cd7de572147921d7880fa2436789?imageMogr2/thumbnail/740'
 				}
-				
 				return src
 			},
 			//

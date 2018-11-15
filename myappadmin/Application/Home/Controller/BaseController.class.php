@@ -10,7 +10,9 @@ class BaseController extends Controller {
 		header("Content-Type:text/html; charset=utf-8");
 	 	header("Access-Control-Allow-Origin: *");
 	}
-	public function setjwtStr(){
+	
+	public function setjwtStr($idstr){
+		$randomstr=$idstr.time().rand();
 		$builder = new Builder();
 		$signer  = new Sha256();
 		$secret = "suspn@)!*";
@@ -19,14 +21,17 @@ class BaseController extends Controller {
 		        ->setAudience("suspn.com") //接收者
 		        ->setId("abc", true) //对当前token设置的标识
 		        ->setIssuedAt(time()) //token创建时间
-		        ->setExpiration(time() + 10) //过期时间
+		        ->setExpiration(time() + 24*60*60) //过期时间
 		        ->setNotBefore(time()) //当前时间在这个时间前，token不能使用
-		        ->set('jtiuid', 300612); //自定义数据
+		        ->set('userflag', $randomstr); //自定义数据
 		
 		//设置签名
 		$builder->sign($signer, $secret);
 		//获取加密后的token，转为字符串
 		$token = (string)$builder->getToken();
+			
+		session($randomstr,13);
+		
 		return $token;
 	} 	
 	public function getjwtStatus($tokenStr){
@@ -34,24 +39,44 @@ class BaseController extends Controller {
 		$secret = "suspn@)!*";
 		//获取token
 		$token = $tokenStr;
-		if (!$token) {
-		    return "登陆失败！";		  
-		}		
+		
+		if(empty($token)){
+			header('HTTP/1.1 401 Unauthorized1'); 	
+	 		exit();	
+		}   
 		try {
 		    //解析token
 		    $parse = (new Parser())->parse($token);
 		    //验证token合法性
 		    if (!$parse->verify($signer, $secret)) {		       
-		         return "权限不够！";
+//		        return "权限不够！";
+				header('HTTP/1.1 401 1'); 	
+ 				exit();
 		    }
 		    //验证是否已经过期
 		    if ($parse->isExpired()) {
-		         return "登陆已过期！！";
-		    }
-		
+//		         return "登陆已过期！！";
+ 				 header('HTTP/1.1 401 2'); 	
+ 				 exit();		  
+		    }	
+		  	   
+			//退出登录			
+			 $userkey=$parse->getClaim('userflag');
+
+			if(empty($_SESSION[$userkey])){
+
+				header('HTTP/1.1 401 Unauthorized1'); 	
+	 			exit();	
+			}    
 		} catch (Exception $e) {
 		    var_dump($e->getMessage());
 		    
 		}
 	}	
+	public function distroylogin($token){
+		$parse = (new Parser())->parse($token);
+		$userkey=$parse->getClaim('userflag');
+		
+		unset($_SESSION[$userkey]);
+	}
 }
