@@ -41,7 +41,7 @@ class BaseController extends Controller {
 		$token = $tokenStr;
 		
 		if(empty($token)){
-			header('HTTP/1.1 401 Unauthorized1'); 	
+			header('HTTP/1.1 401 Unauthorized11'); 	
 	 		exit();	
 		}   
 		try {

@@ -4085,3 +4085,162 @@ INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
 SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0020s ]
 SQL: SELECT * FROM `posts`  [ RunTime:0.0010s ]
 
+[ 2018-11-15T23:38:58+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001444s ]
+NOTIC: [8] Undefined index: token D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\IndexController.class.php 第 9 行.
+
+[ 2018-11-15T23:39:00+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+NOTIC: [8] Undefined index: token D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\IndexController.class.php 第 9 行.
+
+[ 2018-11-15T23:39:03+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `users` WHERE `names` = '1' AND `passwords` = '1' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 17 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 19 行.
+
+[ 2018-11-15T23:39:03+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzQzLCJleHAiOjE1NDIzODI3NDMsIm5iZiI6MTU0MjI5NjM0MywidXNlcmZsYWciOiIyMTU0MjI5NjM0MzY4NSJ9.EEMWT8kkRMdqrsdVumqYnEthVSHH4VTzvxpWe9SrtVg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+
+[ 2018-11-15T23:39:07+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzQzLCJleHAiOjE1NDIzODI3NDMsIm5iZiI6MTU0MjI5NjM0MywidXNlcmZsYWciOiIyMTU0MjI5NjM0MzY4NSJ9.EEMWT8kkRMdqrsdVumqYnEthVSHH4VTzvxpWe9SrtVg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+
+[ 2018-11-15T23:39:08+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzQzLCJleHAiOjE1NDIzODI3NDMsIm5iZiI6MTU0MjI5NjM0MywidXNlcmZsYWciOiIyMTU0MjI5NjM0MzY4NSJ9.EEMWT8kkRMdqrsdVumqYnEthVSHH4VTzvxpWe9SrtVg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+
+[ 2018-11-15T23:39:09+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzQzLCJleHAiOjE1NDIzODI3NDMsIm5iZiI6MTU0MjI5NjM0MywidXNlcmZsYWciOiIyMTU0MjI5NjM0MzY4NSJ9.EEMWT8kkRMdqrsdVumqYnEthVSHH4VTzvxpWe9SrtVg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+
+[ 2018-11-15T23:39:10+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzQzLCJleHAiOjE1NDIzODI3NDMsIm5iZiI6MTU0MjI5NjM0MywidXNlcmZsYWciOiIyMTU0MjI5NjM0MzY4NSJ9.EEMWT8kkRMdqrsdVumqYnEthVSHH4VTzvxpWe9SrtVg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+
+[ 2018-11-15T23:39:10+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzQzLCJleHAiOjE1NDIzODI3NDMsIm5iZiI6MTU0MjI5NjM0MywidXNlcmZsYWciOiIyMTU0MjI5NjM0MzY4NSJ9.EEMWT8kkRMdqrsdVumqYnEthVSHH4VTzvxpWe9SrtVg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+
+[ 2018-11-15T23:39:14+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzQzLCJleHAiOjE1NDIzODI3NDMsIm5iZiI6MTU0MjI5NjM0MywidXNlcmZsYWciOiIyMTU0MjI5NjM0MzY4NSJ9.EEMWT8kkRMdqrsdVumqYnEthVSHH4VTzvxpWe9SrtVg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0154s ]
+SQL: SELECT * FROM `users` WHERE `names` = '2' AND `passwords` = '2' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009442s ]
+
+[ 2018-11-15T23:39:17+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzQzLCJleHAiOjE1NDIzODI3NDMsIm5iZiI6MTU0MjI5NjM0MywidXNlcmZsYWciOiIyMTU0MjI5NjM0MzY4NSJ9.EEMWT8kkRMdqrsdVumqYnEthVSHH4VTzvxpWe9SrtVg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+
+[ 2018-11-15T23:39:43+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzQzLCJleHAiOjE1NDIzODI3NDMsIm5iZiI6MTU0MjI5NjM0MywidXNlcmZsYWciOiIyMTU0MjI5NjM0MzY4NSJ9.EEMWT8kkRMdqrsdVumqYnEthVSHH4VTzvxpWe9SrtVg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003816s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `users` WHERE `names` = '1' AND `passwords` = '1' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 17 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 19 行.
+
+[ 2018-11-15T23:39:43+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzgzLCJleHAiOjE1NDIzODI3ODMsIm5iZiI6MTU0MjI5NjM4MywidXNlcmZsYWciOiIyMTU0MjI5NjM4MzMxMDgyIn0.IW3HRwvg-4l3MGTkD9yGM1eiUaumWI8tYlSiUGRP0xE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002662s ]
+
+[ 2018-11-15T23:40:34+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2MzgzLCJleHAiOjE1NDIzODI3ODMsIm5iZiI6MTU0MjI5NjM4MywidXNlcmZsYWciOiIyMTU0MjI5NjM4MzMxMDgyIn0.IW3HRwvg-4l3MGTkD9yGM1eiUaumWI8tYlSiUGRP0xE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002367s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0158s ]
+SQL: SELECT * FROM `users` WHERE `names` = '1' AND `passwords` = '1' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 17 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 19 行.
+
+[ 2018-11-15T23:40:34+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2NDM0LCJleHAiOjE1NDIzODI4MzQsIm5iZiI6MTU0MjI5NjQzNCwidXNlcmZsYWciOiIyMTU0MjI5NjQzNDExODY3In0.gO03o2cpQKY3owZZ0LMXLjUnjDYRzZQNeW_ra32yILQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002361s ]
+
+[ 2018-11-15T23:41:10+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Sign/login?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2NDM0LCJleHAiOjE1NDIzODI4MzQsIm5iZiI6MTU0MjI5NjQzNCwidXNlcmZsYWciOiIyMTU0MjI5NjQzNDExODY3In0.gO03o2cpQKY3owZZ0LMXLjUnjDYRzZQNeW_ra32yILQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002428s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0759s ]
+SQL: SELECT * FROM `users` WHERE `names` = '1' AND `passwords` = '1' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 17 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\software\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 19 行.
+
+[ 2018-11-15T23:41:10+08:00 ] 192.168.0.101 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjk2NDcwLCJleHAiOjE1NDIzODI4NzAsIm5iZiI6MTU0MjI5NjQ3MCwidXNlcmZsYWciOiIyMTU0MjI5NjQ3MDk5NzYifQ.yF7FL6th9oZioZIxKDsyKgK3WWFrEX9kZbSfvnkQJPY
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003154s ]
+
