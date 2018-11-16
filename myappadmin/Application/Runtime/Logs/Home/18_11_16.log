@@ -1,0 +1,2496 @@
+[ 2018-11-16T09:46:14+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjc1MjU4LCJleHAiOjE1NDIzNjE2NTgsIm5iZiI6MTU0MjI3NTI1OCwidXNlcmZsYWciOiIyMTU0MjI3NTI1ODMwOTgwIn0.g8-lsjlQVMVWnILH-n5i75lZjCglQ8a_8XDmR1rT4tA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T09:46:16+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjc1MjU4LCJleHAiOjE1NDIzNjE2NTgsIm5iZiI6MTU0MjI3NTI1OCwidXNlcmZsYWciOiIyMTU0MjI3NTI1ODMwOTgwIn0.g8-lsjlQVMVWnILH-n5i75lZjCglQ8a_8XDmR1rT4tA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-16T09:46:18+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Sign/login?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMjc1MjU4LCJleHAiOjE1NDIzNjE2NTgsIm5iZiI6MTU0MjI3NTI1OCwidXNlcmZsYWciOiIyMTU0MjI3NTI1ODMwOTgwIn0.g8-lsjlQVMVWnILH-n5i75lZjCglQ8a_8XDmR1rT4tA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0370s ]
+SQL: SELECT * FROM `users` WHERE `names` = '1' AND `passwords` = '1' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 17 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 19 行.
+
+[ 2018-11-16T09:46:18+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzc4LCJleHAiOjE1NDI0MTkxNzgsIm5iZiI6MTU0MjMzMjc3OCwidXNlcmZsYWciOiIyMTU0MjMzMjc3ODMxMDQ5In0.iXTvMgdlGc1R07gQPi_JMmHtt7HfQnhxH-rXRG7E9tA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-16T09:46:22+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Sign/login?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzc4LCJleHAiOjE1NDI0MTkxNzgsIm5iZiI6MTU0MjMzMjc3OCwidXNlcmZsYWciOiIyMTU0MjMzMjc3ODMxMDQ5In0.iXTvMgdlGc1R07gQPi_JMmHtt7HfQnhxH-rXRG7E9tA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0220s ]
+SQL: SELECT * FROM `users` WHERE `names` = '2' AND `passwords` = '2' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 17 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 19 行.
+
+[ 2018-11-16T09:46:22+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzgyLCJleHAiOjE1NDI0MTkxODIsIm5iZiI6MTU0MjMzMjc4MiwidXNlcmZsYWciOiIzMTU0MjMzMjc4MjQ2ODYifQ.wCxNkr4L2Hg7J1hdO1uVneZekXkdzQxWERVgd050g-M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-16T09:46:33+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Sign/login?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzgyLCJleHAiOjE1NDI0MTkxODIsIm5iZiI6MTU0MjMzMjc4MiwidXNlcmZsYWciOiIzMTU0MjMzMjc4MjQ2ODYifQ.wCxNkr4L2Hg7J1hdO1uVneZekXkdzQxWERVgd050g-M
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `users` WHERE `names` = '1' AND `passwords` = '1' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 17 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 19 行.
+
+[ 2018-11-16T09:46:33+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `posts`  [ RunTime:0.0220s ]
+
+[ 2018-11-16T09:49:54+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts`  [ RunTime:0.0020s ]
+
+[ 2018-11-16T10:03:18+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T10:03:23+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T10:03:33+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T10:05:06+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-11-16T10:05:21+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-16T10:06:07+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: userid F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\PersonalartController.class.php 第 22 行.
+
+[ 2018-11-16T10:06:40+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: userid F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\PersonalartController.class.php 第 22 行.
+
+[ 2018-11-16T10:06:49+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+NOTIC: [8] Undefined index: userid F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\PersonalartController.class.php 第 22 行.
+
+[ 2018-11-16T10:07:08+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-16T10:07:33+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T10:08:39+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.1120s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\mysoft\xampp\htdocs\showMe\myappadmin\ThinkPHP\Common\functions.php:850) F:\mysoft\xampp\htdocs\showMe\myappadmin\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2018-11-16T10:09:05+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\mysoft\xampp\htdocs\showMe\myappadmin\ThinkPHP\Common\functions.php:850) F:\mysoft\xampp\htdocs\showMe\myappadmin\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2018-11-16T10:09:49+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:10:21+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0000s ]
+
+[ 2018-11-16T10:10:24+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0270s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:17:50+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0000s ]
+
+[ 2018-11-16T10:22:53+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:48:58+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Sign/login?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzMyNzkzLCJleHAiOjE1NDI0MTkxOTMsIm5iZiI6MTU0MjMzMjc5MywidXNlcmZsYWciOiIyMTU0MjMzMjc5MzE2MjM5In0.aNv7LJpNvClETTEet_drmJzLdW5bc9VYswWfwJa-JXg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `users` WHERE `names` = '2' AND `passwords` = '2' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 17 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 19 行.
+
+[ 2018-11-16T10:48:58+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTM4LCJleHAiOjE1NDI0MjI5MzgsIm5iZiI6MTU0MjMzNjUzOCwidXNlcmZsYWciOiIzMTU0MjMzNjUzODI3NzUyIn0.aAmPhR4Zyg6XnVpB3Obdf5g83oIQv7za5hudr-ek0gs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts`  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:49:07+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTM4LCJleHAiOjE1NDI0MjI5MzgsIm5iZiI6MTU0MjMzNjUzOCwidXNlcmZsYWciOiIzMTU0MjMzNjUzODI3NzUyIn0.aAmPhR4Zyg6XnVpB3Obdf5g83oIQv7za5hudr-ek0gs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:49:17+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Sign/login?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTM4LCJleHAiOjE1NDI0MjI5MzgsIm5iZiI6MTU0MjMzNjUzOCwidXNlcmZsYWciOiIzMTU0MjMzNjUzODI3NzUyIn0.aAmPhR4Zyg6XnVpB3Obdf5g83oIQv7za5hudr-ek0gs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `users` WHERE `names` = '1' AND `passwords` = '1' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 17 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' F:\mysoft\xampp\htdocs\showMe\myappadmin\Application\Home\Controller\SignController.class.php 第 19 行.
+
+[ 2018-11-16T10:49:17+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts`  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:49:21+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:49:24+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:54:42+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0000s ]
+
+[ 2018-11-16T10:57:07+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:58:33+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T10:58:33+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:00:31+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:00:50+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0000s ]
+
+[ 2018-11-16T11:01:09+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0000s ]
+
+[ 2018-11-16T11:01:48+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:02:28+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:02:34+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts`  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:03:31+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `posts`  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:03:38+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:07:20+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:07:45+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:27:55+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:28:03+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:28:05+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:29:01+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:33:37+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:34:51+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:35:03+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:35:33+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0220s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:36:41+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:37:45+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:38:35+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:38:41+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0180s ]
+
+[ 2018-11-16T11:39:05+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:39:08+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:39:21+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:39:45+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:39:48+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+
+[ 2018-11-16T11:40:14+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:40:24+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:44:04+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:44:19+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.033002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-16T11:44:44+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:44:49+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:45:20+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:45:46+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-11-16T11:47:07+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:47:44+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:48:00+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:48:05+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0260s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:48:08+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: DELETE FROM `posts` WHERE ( id=1 ) [ RunTime:0.0750s ]
+
+[ 2018-11-16T11:48:20+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:48:28+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/personalart/saveart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0280s ]
+SQL: INSERT INTO `posts` (`title`,`content`,`autor`,`sendtime`) VALUES ('1','<p>1</p>','天南第一剑','2018-11-16 11:48:27') [ RunTime:0.0440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:48:31+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/personalart/saveart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: INSERT INTO `posts` (`title`,`content`,`autor`,`sendtime`) VALUES ('2','<p>2</p>','天南第一剑','2018-11-16 11:48:31') [ RunTime:0.1200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:48:36+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/personalart/saveart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: INSERT INTO `posts` (`title`,`content`,`autor`,`sendtime`) VALUES ('3','<p>3</p>','天南第一剑','2018-11-16 11:48:36') [ RunTime:0.0930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:48:36+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/personalart/saveart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: INSERT INTO `posts` (`title`,`content`,`autor`,`sendtime`) VALUES ('4','<p>4</p>','天南第一剑','2018-11-16 11:48:36') [ RunTime:0.0290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:48:39+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/personalart/saveart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: INSERT INTO `posts` (`title`,`content`,`autor`,`sendtime`) VALUES ('5','<p>5</p>','天南第一剑','2018-11-16 11:48:38') [ RunTime:0.0300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-11-16T11:48:41+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/personalart/saveart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: INSERT INTO `posts` (`title`,`content`,`autor`,`sendtime`) VALUES ('6','<p>6</p>','天南第一剑','2018-11-16 11:48:41') [ RunTime:0.0360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-11-16T11:48:44+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/personalart/saveart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: INSERT INTO `posts` (`title`,`content`,`autor`,`sendtime`) VALUES ('7','<p>7</p>','天南第一剑','2018-11-16 11:48:43') [ RunTime:0.0530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-11-16T11:48:44+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:48:47+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:48:56+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:49:23+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T11:49:58+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T11:50:06+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:01:28+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:01:33+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:01:36+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:01:38+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:01:39+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:01:42+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: DELETE FROM `posts` WHERE ( id=13 ) [ RunTime:0.0550s ]
+
+[ 2018-11-16T12:01:51+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:38:33+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: DELETE FROM `posts` WHERE ( id=12 ) [ RunTime:0.0560s ]
+
+[ 2018-11-16T12:38:51+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:38:57+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:38:59+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: DELETE FROM `posts` WHERE ( id=11 ) [ RunTime:0.0910s ]
+
+[ 2018-11-16T12:39:40+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=11 ) [ RunTime:0.0000s ]
+
+[ 2018-11-16T12:39:52+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:40:17+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:40:26+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:40:27+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=10 ) [ RunTime:0.0420s ]
+
+[ 2018-11-16T12:40:37+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: DELETE FROM `posts` WHERE ( id=9 ) [ RunTime:0.0440s ]
+
+[ 2018-11-16T12:41:41+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:41:43+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=15 ) [ RunTime:0.0530s ]
+
+[ 2018-11-16T12:41:49+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:44:00+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:44:03+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=18 ) [ RunTime:0.1800s ]
+
+[ 2018-11-16T12:44:05+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.1730s ]
+
+[ 2018-11-16T12:44:11+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=14 ) [ RunTime:0.0420s ]
+
+[ 2018-11-16T12:44:12+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: DELETE FROM `posts` WHERE ( id=16 ) [ RunTime:0.0210s ]
+
+[ 2018-11-16T12:44:12+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=17 ) [ RunTime:0.0310s ]
+
+[ 2018-11-16T12:45:06+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:45:09+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:45:58+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:46:01+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T12:46:02+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: DELETE FROM `posts` WHERE ( id=8 ) [ RunTime:0.0290s ]
+
+[ 2018-11-16T12:46:13+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:48:14+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T12:48:17+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=61 ) [ RunTime:0.0390s ]
+
+[ 2018-11-16T12:48:18+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: DELETE FROM `posts` WHERE ( id=59 ) [ RunTime:0.0250s ]
+
+[ 2018-11-16T12:48:18+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: DELETE FROM `posts` WHERE ( id=57 ) [ RunTime:0.0230s ]
+
+[ 2018-11-16T12:57:26+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0030s ]
+
+[ 2018-11-16T12:57:39+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=56 ) [ RunTime:0.0750s ]
+
+[ 2018-11-16T12:58:41+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=60 ) [ RunTime:0.0370s ]
+
+[ 2018-11-16T13:00:54+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:01:05+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: DELETE FROM `posts` WHERE ( id=58 ) [ RunTime:0.0980s ]
+
+[ 2018-11-16T13:01:09+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=55 ) [ RunTime:0.0540s ]
+
+[ 2018-11-16T13:01:19+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:01:27+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:01:30+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:01:40+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: DELETE FROM `posts` WHERE ( id=54 ) [ RunTime:0.0770s ]
+
+[ 2018-11-16T13:01:44+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0040s ]
+
+[ 2018-11-16T13:02:12+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:02:16+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+
+[ 2018-11-16T13:02:19+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0080s ]
+
+[ 2018-11-16T13:02:21+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0080s ]
+
+[ 2018-11-16T13:02:24+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+
+[ 2018-11-16T13:03:25+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:03:36+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:03:39+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:03:52+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:03:56+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+
+[ 2018-11-16T13:04:01+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:04:04+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0100s ]
+
+[ 2018-11-16T13:04:09+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0080s ]
+
+[ 2018-11-16T13:04:25+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:05:32+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:05:39+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:05:55+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:05:57+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:06:00+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:11:01+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:12:41+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:16:59+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:17:49+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:18:15+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/deleart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+
+[ 2018-11-16T13:18:28+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:22:13+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0050s ]
+
+[ 2018-11-16T13:22:21+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:22:29+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:22:43+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:23:26+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:23:35+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.029002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:23:47+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:24:02+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:24:18+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:24:23+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:25:03+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:27:00+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:30:19+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:33:26+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:34:44+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:59:03+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts`  [ RunTime:0.0030s ]
+
+[ 2018-11-16T13:59:13+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:59:14+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T13:59:15+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:59:17+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T13:59:19+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:00:18+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:00:34+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:02:54+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:03:46+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:05:39+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:06:08+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts`  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:06:27+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Index/getartcont?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts`  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:06:43+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:07:13+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:07:49+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0030s ]
+
+[ 2018-11-16T14:08:11+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:08:52+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:09:17+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:09:49+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:10:17+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:11:55+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:14:02+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:15:35+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:16:07+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:16:26+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:16:38+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:19:07+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:31:31+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:33:38+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:34:14+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T14:34:24+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0030s ]
+
+[ 2018-11-16T14:34:32+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T14:49:32+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0200s ]
+
+[ 2018-11-16T15:02:45+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:02:46+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0030s ]
+
+[ 2018-11-16T15:03:08+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:03:10+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0390s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:10:09+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:10:20+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0030s ]
+
+[ 2018-11-16T15:12:34+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:15:35+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:16:30+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:18:46+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:19:27+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0040s ]
+
+[ 2018-11-16T15:21:41+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:21:45+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:21:46+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:22:03+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:22:10+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:23:44+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:23:59+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0030s ]
+
+[ 2018-11-16T15:24:11+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0030s ]
+
+[ 2018-11-16T15:27:14+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:28:58+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:29:28+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:29:34+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0050s ]
+
+[ 2018-11-16T15:34:13+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:34:37+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:36:05+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:36:13+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:41:10+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:41:16+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:41:48+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T15:42:04+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T15:47:55+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T16:08:02+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T16:08:05+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T16:08:09+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0010s ]
+
+[ 2018-11-16T16:08:11+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T16:08:15+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+
+[ 2018-11-16T16:08:27+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0040s ]
+
+[ 2018-11-16T17:38:01+08:00 ] 192.168.10.20 /showMe/myappadmin/Home/Personalart/getownart?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IndzdWIiLCJqdGkiOiJhYmMifQ.eyJpc3MiOiJ3c3ViIiwiYXVkIjoic3VzcG4uY29tIiwianRpIjoiYWJjIiwiaWF0IjoxNTQyMzM2NTU3LCJleHAiOjE1NDI0MjI5NTcsIm5iZiI6MTU0MjMzNjU1NywidXNlcmZsYWciOiIyMTU0MjMzNjU1NzIxNzcifQ.dN1U2Yjshn-IyUJh4kanFS4mLps7ZpOHSYofxaJlSgQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `posts` WHERE ( user_id=2 )  [ RunTime:0.0020s ]
+

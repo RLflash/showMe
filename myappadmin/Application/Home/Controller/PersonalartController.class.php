@@ -17,5 +17,30 @@ class PersonalartController extends BaseController {
 		$User->add($data);
 		
     }
+    //个人文章管理获取
+    public function getownart(){
+    	$User = M("Posts"); // 实例化User对象
+//  	$userid=$_SESSION['userid'];
+		$userid=2;
+    	$artdata=$User->where('user_id='.$userid)->select();
+		$this->ajaxReturn($artdata, 'JSON');
+    }
+    //个人文章删除
+    public function deleart(){
+    	$User = M("Posts"); // 实例化User对象
+ 		$artid=$_POST["artid"];
+		$delteopera=$User->where('id='.$artid)->delete();
+		$deletstatus=array();
+		if($delteopera){
+			$deletstatus["status"]=1;
+			$deletstatus["mes"]="删除成功！";
+			$this->ajaxReturn($deletstatus, 'JSON');
+		}else{
+			$deletstatus["status"]=0;
+			$deletstatus["mes"]="删除失败！";
+			$this->ajaxReturn($deletstatus, 'JSON');
+		}
+		
+    }
     
 }

@@ -30,7 +30,7 @@ class BaseController extends Controller {
 		//获取加密后的token，转为字符串
 		$token = (string)$builder->getToken();
 			
-		session($randomstr,13);
+		session('userid',$idstr);
 		
 		return $token;
 	} 	
@@ -61,22 +61,18 @@ class BaseController extends Controller {
 		    }	
 		  	   
 			//退出登录			
-			 $userkey=$parse->getClaim('userflag');
-
-			if(empty($_SESSION[$userkey])){
-
-				header('HTTP/1.1 401 Unauthorized1'); 	
-	 			exit();	
-			}    
+			
+//			if(empty($_SESSION[userid])){
+//
+//				header('HTTP/1.1 401 Unauthorized1'); 	
+//	 			exit();	
+//			}    
 		} catch (Exception $e) {
 		    var_dump($e->getMessage());
 		    
 		}
 	}	
 	public function distroylogin($token){
-		$parse = (new Parser())->parse($token);
-		$userkey=$parse->getClaim('userflag');
-		
-		unset($_SESSION[$userkey]);
+		unset($_SESSION[userid]);
 	}
 }

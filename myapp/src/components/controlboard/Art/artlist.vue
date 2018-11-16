@@ -19,22 +19,22 @@
 			</el-row>
 			<transition name="leftright">
 				<el-row class="popwrap whiteopacity overauto" v-show="showpop" @click.native.self="poptoggle">
-	  			<el-col class="artdetailwrap" >
-	  				<div class="grid-content bg-purple-dark">
-	  					<div class="artshowtitw">
-	  						<h3 class="textoverhide">{{artdetail.title}}</h3>
-	  						<p class="artshowinfo">
-	  							<span>{{artdetail.autor}}</span>
-	  							<span>{{artdetail.sendtime}}</span>
-	  						</p>
-	  					</div>
-	  					<div class="line"></div>
-						<div v-html="artdetail.content">
-							
-						</div>
-			  		</div>
-	  			</el-col>
-			</el-row>
+		  			<el-col class="artdetailwrap" >
+		  				<div class="grid-content bg-purple-dark">
+		  					<div class="artshowtitw">
+		  						<h3 class="textoverhide">{{artdetail.title}}</h3>
+		  						<p class="artshowinfo">
+		  							<span>{{artdetail.autor}}</span>
+		  							<span>{{artdetail.sendtime}}</span>
+		  						</p>
+		  					</div>
+		  					<div class="line"></div>
+							<div v-html="artdetail.content">
+								
+							</div>
+				  		</div>
+		  			</el-col>
+				</el-row>
 			</transition>
 		</div>
 	</div>
@@ -57,13 +57,7 @@
 	.artshowinfo>span:first-child{margin-left:0}
 	.artshowtitw{text-align: center;}
 	.artshowtitw>h3{margin: 20px 0;font-size: 23px;}
-	/**/
-	.popwrap{width:100vw;height:100vh;top:0;position:fixed;}
-	.whiteopacity{background:rgba(255, 255, 255, 0.6);filter:Alpha(opacity=60);}
-	.textoverhide{overflow:hidden;text-overflow:ellipsis;white-space:nowrap; }
-	.line{margin:20px 0;width:100%;height:1px;background:#dee5e7;}
-	.overauto{overflow:auto}
-	.overhide{overflow:hidden}
+	
 	
 </style>
 <script>

@@ -22,10 +22,7 @@
 		
 	</div>
 </template>
-<style scoped="scoped">
-	.savebtn{float:right !important;}
-	.editer{margin-left:80px;margin-bottom: 20px;}
-</style>
+
 <script>
 	import edit from '@/components/controlboard/Customcom/edit'
 	export default {
@@ -35,7 +32,7 @@
 		data() {
 			return {
 				arttit:'',
-				cont: "<h1>fasefesf</h1>"
+				cont: ""
 			}
 		},
 		methods: {

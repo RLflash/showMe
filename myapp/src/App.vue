@@ -13,6 +13,7 @@ export default {
 <style>
 
 *{padding:0px;margin:0px;}
+img{max-width: 100%;}
 i{font-style: normal;}
 a{text-decoration: none;}
 .clearfloat:after{
@@ -22,6 +23,18 @@ a{text-decoration: none;}
   clear: both; 
   visibility: hidden;  
   }
+  .el-tooltip__popper{width:98% !important;}
+  /**/
+	.popwrap{width:100vw;height:100vh;top:0;position:fixed;left:0;    z-index: 3;}
+	.whiteopacity{background:rgba(255, 255, 255, 0.6);filter:Alpha(opacity=60);}
+	.textoverhide{overflow:hidden;text-overflow:ellipsis;white-space:nowrap; }
+	.line{margin:20px 0;width:100%;height:1px;background:#dee5e7;}
+	.overauto{overflow:auto}
+	.overhide{overflow:hidden}
+	/*文本提交按钮*/
+  .savebtn{float:right !important;}
+	.editer{margin-left:80px;margin-bottom: 20px;}
+	/**/
   .leftright-enter-active {
 	  animation: leftright-in .3s;
 	  -webkit-animation: leftright-in .3s;
