@@ -25,6 +25,31 @@ class PersonalartController extends BaseController {
     	$artdata=$User->where('user_id='.$userid)->select();
 		$this->ajaxReturn($artdata, 'JSON');
     }
+    //个人文章修改保存
+    public function saveedit(){
+    	$User = M("Posts"); // 实例化User对象
+    	$arttit=$_POST["arttit"];
+        $artcont=$_POST["cont"];
+        $artid=$_POST["artid"];
+        
+		$userid=2;
+		
+		$data['title'] = $arttit;
+		$data['content'] = $artcont;
+		$conditiondata['user_id']=$userid;
+		$conditiondata['id']=$artid;
+		$updatemsg=$User->where($conditiondata)->save($data); // 根据条件更新记录
+		if($updatemsg){
+			$updatestatus["status"]=1;
+			$updatestatus["mes"]="更新成功！";
+			$this->ajaxReturn($updatestatus, 'JSON');
+		}else{
+			$updatestatus["status"]=0;
+			$updatestatus["mes"]="更新失败！";
+			$this->ajaxReturn($updatestatus, 'JSON');
+		}
+		
+    }
     //个人文章删除
     public function deleart(){
     	$User = M("Posts"); // 实例化User对象

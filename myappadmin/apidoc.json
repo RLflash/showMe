@@ -1,0 +1,8 @@
+{
+    "name": "金多多",   
+    "version": "1.0.0",                
+    "description": "api接口",
+    "title": "金多多",
+    "url" : "http://192.168.10.20/showMe/myappadmin",
+    "sampleUrl" : "http://192.168.10.20/showMe/myappadmin"
+}

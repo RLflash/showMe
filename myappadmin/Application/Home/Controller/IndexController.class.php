@@ -4,7 +4,7 @@ use Think\Controller;
 
 class IndexController extends BaseController {
 	//获取所有文章
-    public function getartcont(){
+     public function getartcont(){
     	
     	$c=$_GET["token"];
     	$this->getjwtStatus($c);

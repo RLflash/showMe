@@ -18,7 +18,7 @@
 						
 						<el-table-column fixed="right" align="center" label="操作" width="100">
 							<template slot-scope="scope">
-								<el-button type="text" size="small" @click="editart(scope.row)">编辑</el-button>
+								<el-button type="text" size="small" @click="editart(scope.row,scope.$index)">编辑</el-button>
 								<el-button type="text" size="small" @click="deletart(scope.row)">删除</el-button>
 							</template>
 						</el-table-column>
@@ -38,7 +38,7 @@
 			</el-row>
 		</div>
 		<transition name="leftright">
-			<el-row class="popwrap whiteopacity overauto" v-show="showpop"  @click.native.self="poptoggle">
+			<el-row class="popwrap whiteopacity overauto" v-if="showpop"  @click.native.self="poptoggle">
 	  			<el-col class="artdetailwrap" :span="15">
 	  				<el-form ref="form" label-width="80px" size="mini">
 						<el-form-item label="文章标题" class="arttit">
@@ -47,7 +47,7 @@
 						<edit :value.sync="cont" class="editer"></edit>
 						
 						<el-form-item class="clearfloat" size="large">
-							<el-button type="primary" @click="save" class="savebtn">立即发布</el-button>
+							<el-button type="primary" @click="updata" class="savebtn">确定修改</el-button>
 						</el-form-item>
 					</el-form>
 	  			</el-col>
@@ -65,8 +65,12 @@
 		data(){
 			return {
 				tableData: [],
+				artdata:{},
 				showpop:false,
-				cont:"1",
+				cont:"",
+				arttit:"",
+				artindex:null,
+				artid:null,
 			}
 		},
 		mounted(){
@@ -84,13 +88,52 @@
 				self.$store.commit('isscrollevent')
 			},
 			//编辑文章
-			editart(art){
+			editart(art,ind){
+				console.log(ind)
 				let self=this;
-				self.cont='男';
-				
+				self.artdata=art;
+				self.cont=art.content;
+				self.arttit=art.title;
+				self.artid=art.id;
+				self.artindex=ind;
 				self.showpop=true;
 				
 				self.$store.commit('isscrollevent')
+			},
+			//保存编辑的文章
+			updata(){
+				var self = this
+				this.$http.post('/personalart/saveedit', self.$qs.stringify({
+					'arttit':self.arttit,
+					'cont': self.cont,
+					'artid':self.artid,
+				}))
+				.then(function({data:data}) {
+					if(data.status==1){
+						self.$message({
+							duration:800,
+							type: 'success',
+						    message: '编辑成功!',
+						    onClose:function(){
+						    	self.artdata.arttit=self.arttit;
+						    	self.artdata.cont=self.cont;
+						    	self.set(self.tableData,self.artindex,self.artdata)	
+						    	self.showpop=false;
+						    }
+						});
+					}else{
+						self.$message({
+							duration:2000,
+							type: 'error',
+						    message: '编辑失败!',
+						});
+					}
+				}).catch(() => {
+			        self.$message({
+			            type: 'info',
+			            message: '编辑失败!'
+			        });          
+				})	
 			},
 			//删除文章
 	      	deletart(art){	
